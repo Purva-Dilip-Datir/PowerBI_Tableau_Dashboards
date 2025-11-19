@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm <b>Purva Datir</b></h1>
 
 <h3 align="center">
-💻 Software Developer • 🤖 AI/ML Enthusiast • 📊 Data Analyst  
-<br>Focused on Innovation, Learning & Growth 🚀
+⚡ Shaping the Future with AI, Data Intelligence & Modern Development ✨
 </h3>
+
 
 <!-- 🔮 Animated Heading (No images, pure HTML/CSS marquee) -->
 <p align="center">
