@@ -1,88 +1,71 @@
-<!-- Top Banner with Background -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/techwithanirudh/resources/main/banners/wave-purple.png" />
-</p>
+## 📂 <marquee behavior="alternate" scrollamount="6">⭐ Featured Projects</marquee>
 
-<!-- Typing Animation -->
+<!-- NEW Stable Project Cards Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;Always+Growing+🚀" />
+  <img src="https://raw.githubusercontent.com/techwithanirudh/resources/main/cards/project-showcase-purple.png" width="80%" />
 </p>
 
 ---
-
-<h2 align="center">
-  <b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b>
-</h2>
-
----
-
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-🟣_Welcome_to_my_Interactive_Profile!-6A5ACD?style=for-the-badge" />
-</p>
-
----
-
-## ✨ **About Me**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techwithanirudh/resources/main/avatars/dev-girl-purple.png" width="60%" />
-</p>
-
-🎓 **B.Tech Final Year | Innovator | Problem Solver**  
-📍 **Trainee at ScatterPie Analytics** – Data & Analytics Excellence Program 2025  
-
-- 🌱 Learning: **AI/ML, NLP, Deep Learning, Power BI, Full-Stack Dev**  
-- 🧠 Passion: Creating intelligent & impactful solutions  
-- 📊 Skilled: Dashboards • ML Models • Web Apps  
-- 👨‍💻 Portfolio: **[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)**  
-- ⚡ Fun Fact: I convert raw data into **stories & insights**  
-
----
-
-## 🎨 **Tech Stack – Visualized**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman,powershell&perline=7" />
-</p>
-
----
-
-## 📂 **Featured Projects (Visual Cards)**
-
-<!-- Project Cards (New Working Image) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techwithanirudh/resources/main/cards/project-cards-alt-purple.png" width="80%" />
-</p>
 
 ### 🔹 **AI Quiz Application**
 🧠 NLP-powered quiz generator for personalized & dynamic questions.
 
+**Badges**  
+![Status](https://img.shields.io/badge/Status-Completed-6A5ACD?style=for-the-badge)
+![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Model-FF1493?style=for-the-badge)
+
+---
+
 ### 🔹 **Campus Commune**
 💬 Social platform for student events, announcements & community engagement.
 
+**Badges**  
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge)
+![Node](https://img.shields.io/badge/Backend-Node.js-3C873A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
+
+---
+
 ### 🔹 **Project Management Application**
-📅 Multi-user task & deadline management with team analytics.
+📅 Multi-user task & deadline management with analytics.
+
+**Badges**  
+![Fullstack](https://img.shields.io/badge/Full_Stack-App-6A5ACD?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/Database-MySQL-005C84?style=for-the-badge)
+
+---
 
 ### 🔹 **Sentiment Analysis – E-commerce Reviews**
 🔍 NLP model that predicts customer sentiments + dashboards.
 
+**Badges**  
+![AI](https://img.shields.io/badge/AI%2FML-Sentiment_Model-FF1493?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Model-3776AB?style=for-the-badge)
+
+---
+
 ### 🔹 **HR Analytics Dashboard (Power BI)**
 📊 Attrition insights, KPIs & workforce trends.
+
+**Badges**  
+![Power BI](https://img.shields.io/badge/Built_With-PowerBI-F2C811?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
+---
 
 ### 🔹 **E-Commerce Sales Dashboard (Power BI)**
 📈 Sales trends, forecasting & customer profiling.
 
-### 🔹 **ScatterPie Assignment – Power BI**
-🏆 Cleaning • Transformation • KPI Design • Storytelling Dashboard.
+**Badges**  
+![Power BI](https://img.shields.io/badge/Sales-Dashboard-F2C811?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Advanced-Analytics-6A5ACD?style=for-the-badge)
 
 ---
 
-## 🌈 **Visualization Templates**
-Use these sections in projects or reports:
+### 🔹 **ScatterPie Assignment – Power BI**
+🏆 Cleaning • Transformation • KPI Design • Storytelling.
 
-### 🔹 Stats Block Template
-```md
-📌 **Project Highlights**
-- 🚀 Key Metric 1 – Value
-- 🧠 Model Accuracy – 95%
-- 📊 Dashboard Pages – 5
-- ⚡ Fast & scalable
+**Badges**  
+![ScatterPie](https://img.shields.io/badge/Training-ScatterPie-blueviolet?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Project-F2C811?style=for-the-badge)
