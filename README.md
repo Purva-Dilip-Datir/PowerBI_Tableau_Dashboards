@@ -9,72 +9,62 @@
 
 ---
 
-## 👀 Profile Views  
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Purva-Dilip-Datir&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Purva-Dilip-Datir" /> 
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Purva-Dilip-Datir&theme=discord&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
-
 ## 🚀 About Me  
 🎓 B.Tech Final Year | 💡 Innovator | 🧠 Problem Solver  
+Currently **Trainee at ScatterPie Analytics (Data & Analytics Excellence Program 2025)**  
 
-- 🌱 Currently learning: **AI/ML, NLP, Deep Learning & Full-Stack Development**  
+- 🌱 Learning: **AI/ML, NLP, Deep Learning, Power BI & Full-Stack Development**  
 - 👨‍💻 Explore my work: **[GitHub Repos](https://github.com/Purva-Dilip-Datir?tab=repositories)**  
 - 💬 Ask me about **Java, Python, ML, SQL, React, Backend Development**  
-- 🎯 Goal: To build real-world impactful software & AI solutions  
+- 🎯 Goal: Build real-world impactful AI & Data solutions  
 - ⚡ Fun Fact: I love turning raw data into interactive dashboards 🔍  
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman,powershell" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Purva-Dilip-Datir&show_icons=true&theme=midnight-purple" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purva-Dilip-Datir&theme=midnight-purple" />
-</td>
-</tr>
-</table>
+## 📂 Projects  
+### 🔹 **AI Quiz Application**  
+An interactive AI-powered quiz platform that generates dynamic questions using NLP.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purva-Dilip-Datir&layout=compact&theme=midnight-purple" />
-</p>
+### 🔹 **Campus Commune**  
+A campus-level community platform for events, updates, chats & collaboration.
+
+### 🔹 **Project Management Application**  
+Task tracking, deadlines, multilevel user roles & productivity insights.
+
+### 🔹 **Sentiment Analysis for E-Commerce Reviews**  
+NLP model to classify customer reviews as positive, negative, or neutral.
+
+### 🔹 **HR Analytics Dashboard (Power BI)**  
+Interactive dashboard for employee performance, attrition & workforce insights.
+
+### 🔹 **E-Commerce Sales Dashboard (Power BI)**  
+Visual analysis of sales, profit, customer trends & product performance.
+
+### 🔹 **ScatterPie Assignment – Power BI**  
+Successfully completed Data & Analytics Excellence Program assignment using Power BI:
+- Data cleaning  
+- Transformations  
+- KPI building  
+- Dashboard & insights presentation  
 
 ---
 
 ## 🔗 Connect With Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/purva-datir" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:purvadatir@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-## ⭐ Fun Extras  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purva-Dilip-Datir&theme=react-dark&area=true&hide_border=true" />
+  <a href="https://www.linkedin.com/in/purva-datir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:purvadatir@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
