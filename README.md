@@ -1,4 +1,50 @@
-## 📂 <marquee behavior="alternate" scrollamount="6">⭐ Featured Projects</marquee>
+<!-- 🌟 Background Banner -->
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/RhF6hYB.png" />
+</p>
+
+<!-- 👋 Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;AI+%26+Data+Explorer;Always+Growing+🚀" />
+</p>
+
+---
+
+<h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-🟣_Welcome_to_my_Interactive_Profile!-6A5ACD?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ **About Me**
+<p align="center">
+  <img src="https://i.imgur.com/dCZz1zM.png" width="70%" />
+</p>
+
+🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
+📍 <b>Trainee at ScatterPie Analytics</b> – Data & Analytics Excellence Program 2025  
+
+- 🌱 Learning: <b>AI/ML, NLP, Deep Learning, Power BI, Full-Stack</b>  
+- 👨‍💻 Explore my work: <b>[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)</b>  
+- 💬 Ask me about: <b>Java, Python, ML, SQL, React, Backend</b>  
+- 🎯 Goal: Build <b>impactful AI & data-driven solutions</b>  
+- ⚡ Fun Fact: I love turning raw data into <b>visual insights</b>  
+
+---
+
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman,powershell&perline=7" />
+</p>
+
+---
+
+
+## 📂 <marquee behavior="alternate" scrollamount="6">⭐Featured Projects</marquee>
 
 <!-- NEW Stable Project Cards Image -->
 <p align="center">
