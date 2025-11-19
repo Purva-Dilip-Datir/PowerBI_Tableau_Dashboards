@@ -23,7 +23,7 @@
 🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
 📍 <b>Trainee at ScatterPie Analytics</b> – Data & Analytics Excellence Program 2025  
 
-- 🌱 Learning: <b>AI , Power BI, Full-Stack</b>  
+- 🌱 Learning: <b> Power BI,Tableau , Excel k</b>  
 - 👨‍💻 Explore my work: <b>[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)</b>  
 - 🎯 Goal: Build <b>impactful AI & data-driven solutions</b>  
 - ⚡ Fun Fact: I love turning raw data into <b>visual insights</b>  
