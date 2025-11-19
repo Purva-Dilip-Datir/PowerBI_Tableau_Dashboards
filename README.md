@@ -1,11 +1,18 @@
-<!-- 🌟 Background Banner (Stable GitHub-hosted) -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AkashSingh3031/The-Complete-FAANG-Preparation/master/images/wave-light.gif" />
-</p>
+<!-- 💜 Stylish Text Header -->
+<h1 align="center">Hi 👋, I'm <b>Purva Datir</b></h1>
 
-<!-- 👋 Typing Intro -->
+<h3 align="center">
+💻 Software Developer • 🤖 AI/ML Enthusiast • 📊 Data Analyst  
+<br>B.Tech Final Year Student • Always Learning 🚀
+</h3>
+
+---
+
+<!-- 🔮 Animated Heading (No images, pure HTML/CSS marquee) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=A020F0&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;AI+%26+Data+Explorer;Always+Growing+🚀" />
+  <marquee width="60%" scrollamount="6">
+    <b>Welcome to my Interactive GitHub Profile — Exploring AI • Data • Development 💜</b>
+  </marquee>
 </p>
 
 ---
