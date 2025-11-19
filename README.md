@@ -1,7 +1,11 @@
 <!-- 💜 Stylish Text Header -->
-<h1 align="center">Hi 👋, I'm <b>Purva Datir</b></h1>
+<h1 align="center">
+  <marquee width="60%" behavior="alternate" scrollamount="6">
+    Hi 👋, I'm <b>Purva Datir</b>
+  </marquee>
+</h1>
 
-<!-- ⭐ Go-and-Come Moving Marquee Heading -->
+<!-- ⭐ Moving Subtitle -->
 <h3 align="center">
   <marquee width="70%" behavior="alternate" scrollamount="6">
     <b>Engineering Smart Systems with AI • Data Intelligence • Modern Development 🚀</b>
@@ -9,7 +13,6 @@
 </h3>
 
 ---
-
 
 <h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
 
@@ -34,9 +37,9 @@
 
 ---
 
-## 📂 
+ 
 <h2 align="center">
-  <marquee behavior="alternate" scrollamount="6">⭐ Featured Projects ⭐</marquee>
+  <marquee behavior="alternate" scrollamount="6"> 📂Featured Projects </marquee>
 </h2>
 
 ---
