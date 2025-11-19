@@ -1,14 +1,15 @@
-<!-- 🌟 Background Banner -->
+<!-- 🌟 Background Banner (Stable GitHub-hosted) -->
 <p align="center">
-  <img width="100%" src="https://i.imgur.com/RhF6hYB.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/AkashSingh3031/The-Complete-FAANG-Preparation/master/images/wave-light.gif" />
 </p>
 
 <!-- 👋 Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;AI+%26+Data+Explorer;Always+Growing+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=A020F0&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;AI+%26+Data+Explorer;Always+Growing+🚀" />
 </p>
 
 ---
+
 
 <h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
 
