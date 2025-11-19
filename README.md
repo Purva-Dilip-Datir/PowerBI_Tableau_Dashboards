@@ -1,7 +1,7 @@
 <!-- 💜 Stylish Text Header -->
 <h1 align="center">Hi 👋, I'm <b>Purva Datir</b></h1>
 
-<!-- ⭐ Dynamic Marquee Heading -->
+<!-- ⭐ Go-and-Come Moving Marquee Heading -->
 <h3 align="center">
   <marquee width="70%" behavior="alternate" scrollamount="6">
     <b>Engineering Smart Systems with AI • Data Intelligence • Modern Development 🚀</b>
@@ -9,6 +9,7 @@
 </h3>
 
 ---
+
 
 <h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
 
