@@ -9,7 +9,7 @@
 <!-- 🔮 Animated Heading (No images, pure HTML/CSS marquee) -->
 <p align="center">
   <marquee width="60%" scrollamount="6">
-    <b>Welcome to my Interactive GitHub Profile — Exploring AI • Data • Development 💜</b>
+    <b>Welcome to my Interactive GitHub Profile Exploring AI • Data • Development 💜</b>
   </marquee>
 </p>
 
@@ -21,9 +21,6 @@
 ---
 
 ## ✨ **About Me**
-<p align="center">
-  <img src="https://i.imgur.com/dCZz1zM.png" width="70%" />
-</p>
 
 🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
 📍 <b>Trainee at ScatterPie Analytics</b> – Data & Analytics Excellence Program 2025  
