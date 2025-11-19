@@ -1,72 +1,120 @@
-<!-- Banner -->
+<!-- Top Banner with Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;Always+Learning+New+Things+🚀" />
+  <img width="100%" src="https://i.imgur.com/RhF6hYB.png" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;Always+Growing+🚀" />
 </p>
 
 ---
 
-<h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 🇮🇳 India</b></h2>
+<h2 align="center">
+  <b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b>
+</h2>
+
+---
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-🟣_Welcome_to_my_Interactive_Profile!-6A5ACD?style=for-the-badge" />
+</p>
 
 ---
 
 ## ✨ **About Me**
-🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
-📍 Currently <b>Trainee at ScatterPie Analytics</b> (Data & Analytics Excellence Program 2025)
+<p align="center">
+  <img src="https://i.imgur.com/dCZz1zM.png" width="70%" />
+</p>
 
-- 🌱 Learning: <b>AI/ML, NLP, Deep Learning, Power BI, Full-Stack Development</b>  
-- 👨‍💻 Explore my work: <b>[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)</b>  
-- 💬 Ask me about: <b>Java, Python, ML, SQL, React, Backend Development</b>  
-- 🎯 Goal: Build <b>impactful AI & data-driven solutions</b>  
-- ⚡ Fun Fact: I love transforming raw datasets into <b>beautiful dashboards & insights</b>  
+🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
+📍 <b>Trainee at ScatterPie Analytics</b> – Data & Analytics Excellence Program 2025  
+
+- 🌱 Learning: <b>AI/ML, NLP, Deep Learning, Power BI, Full-Stack Dev</b>  
+- 🧠 Passion: Building intelligent systems with real-world impact  
+- 📊 Skilled: Dashboards, ML Models, Web Apps  
+- 👨‍💻 Portfolio: <b>[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)</b>  
+- ⚡ Fun Fact: I turn raw data into <b>beautiful visual stories & insights</b>  
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🎨 **Tech Stack – Visualized**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,mysql,postgres,figma,linux,docker,postman,powershell&perline=7" />
 </p>
 
 ---
 
-## 📂 **Projects**
-### 🔹 <b>AI Quiz Application</b>  
-AI-powered quiz platform that auto-generates dynamic questions using NLP.
+## 📂 **Featured Projects (With Visual Cards)**
 
-### 🔹 <b>Campus Commune</b>  
-A campus networking & collaboration platform for students and faculty.
+<!-- Project Cards Template -->
+<p align="center">
+  <img src="https://i.imgur.com/FeFzJSD.png" width="80%" />
+</p>
 
-### 🔹 <b>Project Management Application</b>  
-Task scheduling, progress tracking, user roles & productivity analytics.
+### 🔹 **AI Quiz Application**
+🧠 NLP-powered quiz generator that creates personalized & dynamic questions.
 
-### 🔹 <b>Sentiment Analysis for E-Commerce Reviews</b>  
-NLP model to classify user reviews as Positive, Negative, or Neutral.
+### 🔹 **Campus Commune**
+💬 Social platform for students: events, chats, announcements, and community features.
 
-### 🔹 <b>HR Analytics Dashboard (Power BI)</b>  
-Performance metrics, attrition risk, demographic insights & HR KPIs.
+### 🔹 **Project Management Application**
+📅 Multi-user system with tasks, deadlines, insights & team analytics.
 
-### 🔹 <b>E-Commerce Sales Dashboard (Power BI)</b>  
-Sales trends, customer behavior analytics, profit insights & forecasting.
+### 🔹 **Sentiment Analysis – E-commerce Reviews**
+🔍 ML/NLP model predicting customer sentiments with visualization dashboards.
 
-### 🔹 <b>ScatterPie Assignment – Power BI</b>  
-Completed as part of the Analytics Excellence Program:
-- Data Cleaning & Transformation  
-- DAX Measures + KPIs  
-- Dashboard development  
-- Insight storytelling & presentation  
+### 🔹 **HR Analytics Dashboard (Power BI)**
+📊 Employee trends, attrition insights, performance KPIs & demographics.
+
+### 🔹 **E-Commerce Sales Dashboard (Power BI)**
+📈 Sales breakdown, customer analysis, profit heatmaps, forecasting.
+
+### 🔹 **ScatterPie Assignment – Power BI**
+🏆 Part of Analytics Excellence Training:  
+- Data cleaning  
+- Transformation  
+- KPI design  
+- Dashboard + storytelling  
+
+---
+
+## 🌈 **Visualization Templates**
+Use these in projects, presentations, resumes ⬇️  
+
+### 🔹 Stats Block Template
+```md
+📌 **Project Highlights**
+- 🚀 Key Metric 1 – Value
+- 🧠 Model Accuracy – 95%
+- 📊 Dashboard Pages – 5
+- ⚡ Fast & scalable
+---
+
+## 🏷️ **Project Badges + Connect With Me**
+
+### 📛 **Project Badge Template**
+Use these badges under any project:
+
+![Status](https://img.shields.io/badge/Status-Completed-6A5ACD?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Built_With-PowerBI-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%2FML-Enabled-FF1493?style=for-the-badge)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge)
 
 ---
 
 ## 🌐 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/purva-datir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Purva_Datir-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:purvadatir@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<p align="center"><b>✨ Thanks for visiting my profile — Keep learning, keep building, keep growing! 💙</b></p>
