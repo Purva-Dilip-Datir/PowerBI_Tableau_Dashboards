@@ -1,11 +1,11 @@
 <!-- Top Banner with Background -->
 <p align="center">
-  <img width="100%" src="https://i.imgur.com/RhF6hYB.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/techwithanirudh/resources/main/banners/wave-purple.png" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;Always+Growing+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Purva+Datir;Software+Developer+%7C+AI+Enthusiast;B.Tech+Final+Year+Student;Always+Growing+🚀" />
 </p>
 
 ---
@@ -25,17 +25,17 @@
 
 ## ✨ **About Me**
 <p align="center">
-  <img src="https://i.imgur.com/dCZz1zM.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/techwithanirudh/resources/main/avatars/dev-girl-purple.png" width="60%" />
 </p>
 
-🎓 <b>B.Tech Final Year | Innovator | Problem Solver</b>  
-📍 <b>Trainee at ScatterPie Analytics</b> – Data & Analytics Excellence Program 2025  
+🎓 **B.Tech Final Year | Innovator | Problem Solver**  
+📍 **Trainee at ScatterPie Analytics** – Data & Analytics Excellence Program 2025  
 
-- 🌱 Learning: <b>AI/ML, NLP, Deep Learning, Power BI, Full-Stack Dev</b>  
-- 🧠 Passion: Building intelligent systems with real-world impact  
-- 📊 Skilled: Dashboards, ML Models, Web Apps  
-- 👨‍💻 Portfolio: <b>[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)</b>  
-- ⚡ Fun Fact: I turn raw data into <b>beautiful visual stories & insights</b>  
+- 🌱 Learning: **AI/ML, NLP, Deep Learning, Power BI, Full-Stack Dev**  
+- 🧠 Passion: Creating intelligent & impactful solutions  
+- 📊 Skilled: Dashboards • ML Models • Web Apps  
+- 👨‍💻 Portfolio: **[GitHub Repositories](https://github.com/Purva-Dilip-Datir?tab=repositories)**  
+- ⚡ Fun Fact: I convert raw data into **stories & insights**  
 
 ---
 
@@ -46,42 +46,38 @@
 
 ---
 
-## 📂 **Featured Projects (With Visual Cards)**
+## 📂 **Featured Projects (Visual Cards)**
 
-<!-- Project Cards Template -->
+<!-- Project Cards (New Working Image) -->
 <p align="center">
-  <img src="https://i.imgur.com/FeFzJSD.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/techwithanirudh/resources/main/cards/project-cards-alt-purple.png" width="80%" />
 </p>
 
 ### 🔹 **AI Quiz Application**
-🧠 NLP-powered quiz generator that creates personalized & dynamic questions.
+🧠 NLP-powered quiz generator for personalized & dynamic questions.
 
 ### 🔹 **Campus Commune**
-💬 Social platform for students: events, chats, announcements, and community features.
+💬 Social platform for student events, announcements & community engagement.
 
 ### 🔹 **Project Management Application**
-📅 Multi-user system with tasks, deadlines, insights & team analytics.
+📅 Multi-user task & deadline management with team analytics.
 
 ### 🔹 **Sentiment Analysis – E-commerce Reviews**
-🔍 ML/NLP model predicting customer sentiments with visualization dashboards.
+🔍 NLP model that predicts customer sentiments + dashboards.
 
 ### 🔹 **HR Analytics Dashboard (Power BI)**
-📊 Employee trends, attrition insights, performance KPIs & demographics.
+📊 Attrition insights, KPIs & workforce trends.
 
 ### 🔹 **E-Commerce Sales Dashboard (Power BI)**
-📈 Sales breakdown, customer analysis, profit heatmaps, forecasting.
+📈 Sales trends, forecasting & customer profiling.
 
 ### 🔹 **ScatterPie Assignment – Power BI**
-🏆 Part of Analytics Excellence Training:  
-- Data cleaning  
-- Transformation  
-- KPI design  
-- Dashboard + storytelling  
+🏆 Cleaning • Transformation • KPI Design • Storytelling Dashboard.
 
 ---
 
 ## 🌈 **Visualization Templates**
-Use these in projects, presentations, resumes ⬇️  
+Use these sections in projects or reports:
 
 ### 🔹 Stats Block Template
 ```md
@@ -90,31 +86,3 @@ Use these in projects, presentations, resumes ⬇️
 - 🧠 Model Accuracy – 95%
 - 📊 Dashboard Pages – 5
 - ⚡ Fast & scalable
----
-
-## 🏷️ **Project Badges + Connect With Me**
-
-### 📛 **Project Badge Template**
-Use these badges under any project:
-
-![Status](https://img.shields.io/badge/Status-Completed-6A5ACD?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Built_With-PowerBI-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%2FML-Enabled-FF1493?style=for-the-badge)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge)
-![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge)
-
----
-
-## 🌐 **Connect With Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/purva-datir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Purva_Datir-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:purvadatir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
