@@ -3,10 +3,8 @@
 
 <h3 align="center">
 💻 Software Developer • 🤖 AI/ML Enthusiast • 📊 Data Analyst  
-<br>B.Tech Final Year Student • Always Learning 🚀
+<br>Focused on Innovation, Learning & Growth 🚀
 </h3>
-
----
 
 <!-- 🔮 Animated Heading (No images, pure HTML/CSS marquee) -->
 <p align="center">
@@ -19,12 +17,6 @@
 
 
 <h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-🟣_Welcome_to_my_Interactive_Profile!-6A5ACD?style=for-the-badge" />
-</p>
 
 ---
 
