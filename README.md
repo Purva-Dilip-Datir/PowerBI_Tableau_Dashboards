@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst • 🇮🇳 India</b></h2>
+<h2 align="center"><b>💻 Passionate Developer • 🤖 AI Explorer • 📊 Data Analyst </b></h2>
 
 ---
 
