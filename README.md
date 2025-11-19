@@ -8,7 +8,7 @@
 <!-- ⭐ Moving Subtitle -->
 <h3 align="center">
   <marquee width="70%" behavior="alternate" scrollamount="6">
-    <b>Engineering Smart Systems with AI • Data Intelligence • Modern Development 🚀</b>
+  <b>Power BI • Tableau • Data Analytics • Insightful Dashboards 🚀</b>
   </marquee>
 </h3>
 
